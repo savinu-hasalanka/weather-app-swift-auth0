@@ -79,15 +79,7 @@ cd weather-app
 let apiKey = "YOUR_API_KEY"
 ```
 
-4. **Set up Auth0**
-- Register your app on Auth0 dashboard
-- Update `AuthService.swift`:
-```swift
-let domain = "YOUR_AUTH0_DOMAIN"
-let clientId = "YOUR_AUTH0_CLIENT_ID"
-```
-
-5. **Run the app**
+4. **Run the app**
 - Choose a target simulator or device
 - Click ▶️ **Run** in Xcode
 
