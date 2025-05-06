@@ -1,4 +1,3 @@
-
 # 🌦️ Weather App
 
 A responsive mobile application built using **Swift** and **SwiftUI** that displays real-time weather information for multiple cities. This project was developed as part of the **2025 Full Stack Assignment** for **Fidenz Technologies**.
@@ -127,6 +126,14 @@ WeatherApp/
 
 ---
 
+## 🗂️ Screenshots
+
+![Login screen](https://github.com/user-attachments/assets/7a68ba1d-d658-45b2-9279-3fe422d35574)
+![Auth login screen](https://github.com/user-attachments/assets/06618df2-67ab-486c-b9a3-15af2841fedf)
+![Auth MFA screen](https://github.com/user-attachments/assets/e8bea678-d19d-46fb-ac66-258ed8ea359f)
+![Weather view screen](https://github.com/user-attachments/assets/a9f1349e-2b74-4d46-9d14-25d2683756b6)
+![Sign out screen](https://github.com/user-attachments/assets/7d57c346-70cf-4cfb-803e-13281eb1e6d1)
+
 ## 🤝 Contributing
 
 Feel free to contribute!
@@ -140,3 +147,6 @@ Feel free to contribute!
 ---
 
 > Made with ❤️ by Savinu.
+> 
+
+
