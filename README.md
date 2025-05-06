@@ -131,7 +131,6 @@ WeatherApp/
 ├── ViewModels/           # Business logic & state
 ├── Services/             # API & Auth services
 ├── Resources/            # Assets, city JSON
-└── Utilities/            # Constants, extensions
 ```
 
 ---
